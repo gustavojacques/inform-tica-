@@ -27,3 +27,14 @@ Este material está sob a Licença Creative Commons Atribuição 4.0 Internacion
 ### primeira apresentação do grupo 
 
 https://presenter.ahaslides.com/share/apresentacao-pessoal-1771027138783-l3w404gz9j
+
+
+A primeira apresentação do grupo teve como objetivo desenvolver a comunicação, a criatividade e a integração entre os alunos. A atividade foi dividida em três partes principais: ídolo favorito, filme favorito e hobby.
+
+Na primeira parte, cada integrante apresentou seu ídolo favorito, explicando os motivos da admiração, sua trajetória, conquistas e qualidades que servem de inspiração tanto na vida pessoal quanto profissional. Essa etapa permitiu conhecer melhor os valores e referências de cada membro do grupo, destacando características como liderança, disciplina, inovação e superação.
+
+Na segunda parte, falamos sobre o filme favorito de cada participante. Foram apresentados diferentes gêneros, como ação, drama, comédia e ficção científica. Cada integrante explicou a mensagem principal do filme escolhido, os aprendizados que ele transmite e como a história pode se relacionar com temas como trabalho em equipe, persistência, estratégia e tomada de decisão — competências importantes na área de Gestão da Produção Industrial.
+
+Por fim, na terceira parte, cada aluno compartilhou seu hobby. Foram citadas atividades como esportes, leitura, jogos, música e tecnologia. Esse momento foi importante para mostrar como os hobbies contribuem para o desenvolvimento de habilidades como concentração, disciplina, criatividade e equilíbrio emocional, fundamentais para o ambiente acadêmico e profissional.
+
+De modo geral, a apresentação foi uma experiência enriquecedora, pois fortaleceu a interação entre os colegas, estimulou a expressão pessoal e contribuiu para a construção de um ambiente mais colaborativo e participativo ao longo do semestre.
