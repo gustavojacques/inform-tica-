@@ -1,6 +1,6 @@
 # Fonte de Informação e Banco de Dados
 
-## Curso: Gestão da Produção Industrial
+## Curso: Gestão da Produção Industrial 1° Semestre
 
 ### Objetivos
 - Compreender os conceitos fundamentais da informática aplicados à gestão da produção.
