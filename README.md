@@ -7,6 +7,11 @@
 - Desenvolver habilidades em ferramentas tecnológicas para otimização de processos.
 - Analisar dados e tomar decisões informadas através da tecnologia.
 
+  ### Integrantes do grupo:
+- José Aleixo;
+- Gustavo Jacques;
+- João Henrrique; 
+
 ### Conteúdo Coberto
 1. Introdução à Informática
 2. Sistemas de Informação
