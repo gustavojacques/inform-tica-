@@ -8,9 +8,11 @@
 - Analisar dados e tomar decisões informadas através da tecnologia.
 
   ### Integrantes do grupo:
-- José Aleixo;
+- Eric Silva;
 - Gustavo Jacques;
-- João Henrrique; 
+- João Henrrique;
+- Juam Pablo;
+- Vitor Torres; 
 
 ### Conteúdo Coberto
 1. Introdução à Informática
