@@ -10,7 +10,6 @@
   ### Integrantes do grupo:
 - Eric Silva;
 - Gustavo Jacques;
-- João Henrrique;
 - Juam Pablo;
 - Vitor Torres; 
 
