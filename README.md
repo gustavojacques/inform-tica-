@@ -49,3 +49,7 @@ De modo geral, a apresentação foi uma experiência enriquecedora, pois fortale
 ### projeto do vestido 
 
 https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content=DAHCkBIwErk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
+### planilha de excel 
