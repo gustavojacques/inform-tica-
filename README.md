@@ -44,3 +44,7 @@ Na segunda parte, falamos sobre o filme favorito de cada participante. Foram apr
 Por fim, na terceira parte, cada aluno compartilhou seu hobby. Foram citadas atividades como esportes, leitura, jogos, música e tecnologia. Esse momento foi importante para mostrar como os hobbies contribuem para o desenvolvimento de habilidades como concentração, disciplina, criatividade e equilíbrio emocional, fundamentais para o ambiente acadêmico e profissional.
 
 De modo geral, a apresentação foi uma experiência enriquecedora, pois fortaleceu a interação entre os colegas, estimulou a expressão pessoal e contribuiu para a construção de um ambiente mais colaborativo e participativo ao longo do semestre.
+
+
+### projeto do vestido 
+
