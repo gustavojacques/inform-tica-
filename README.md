@@ -48,6 +48,16 @@ De modo geral, a apresentação foi uma experiência enriquecedora, pois fortale
 
 ### projeto do vestido 
 
+Projeto: Desenvolvimento de Vestido de Noiva e Festa
+
+Este projeto tem como objetivo a criação de um vestido exclusivo para noivas, conectando design, funcionalidade e estética, com foco na autoestima da cliente e na identidade da marca. O trabalho envolveu pesquisa de tecidos nobres, análise de cores, modelagens e detalhes que valorizam o caimento e o conforto da peça.
+
+Foram selecionados tecidos clássicos de seda, como zibeline, bucol, crepe e musseline, cada um escolhido por suas características únicas de brilho, toque e fluidez, adequando-se a diferentes estilos de vestidos, do estruturado ao esvoaçante. A escolha dos tecidos buscou unir sofisticação, elegância e conforto, respeitando tendências contemporâneas e exigências estéticas.
+
+O grupo analisou diversos modelos, considerando detalhes de acabamento, cores, adereços e proporção. Entre os modelos selecionados, o vestido final escolhido apresenta degradê em tons quentes, mangas longas com leve volume, decote elegante e aplicações sutis de pedrarias, promovendo um efeito visual impactante e sofisticado, sem perder a discrição e a elegância.
+
+O resultado final integra pesquisa de materiais, técnica de modelagem e sensibilidade estética, evidenciando o cuidado em proporcionar um produto que alia estilo, conforto e exclusividade para o público-alvo. Este trabalho serve como referência para estudos de design de moda, especialmente na criação de vestidos de cerimônia, aliando teoria, prática e inovação.
+
 https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content=DAHCkBIwErk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
