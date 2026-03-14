@@ -73,7 +73,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 - 
-
+https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 
 
 
