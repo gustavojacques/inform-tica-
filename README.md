@@ -63,7 +63,9 @@ https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content
 
 ### planilhas do excel
 
-### despesas
+## arquivo de despesas da recita de sjc
+
+https://github.com/gustavojacques/inform-tica-/blob/main/despesa_funcao%20(1).xlsx
 
 
 
