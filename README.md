@@ -10,7 +10,7 @@
   ### Integrantes do grupo:
 - Eric Silva;
 - Gustavo Jacques;
-- Juam Pablo;
+- Juan Pablo;
 - Vitor Torres; 
 
 ### Conteúdo Coberto
@@ -62,4 +62,5 @@ https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content
 
 
 ### planilhas do excel
+
 
