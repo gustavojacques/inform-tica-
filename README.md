@@ -72,8 +72,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 ##planilha fornecedores.
 
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
-- 
-https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
+  
 
 
 
