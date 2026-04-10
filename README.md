@@ -73,6 +73,10 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 - https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20224841.png
+
+- 09/04
+- https://dadosabertos.sp.gov.br/dataset/ensino-superior
+- 
   
 
 
