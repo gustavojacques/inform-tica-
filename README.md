@@ -76,7 +76,8 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 
 - 09/04
 - https://dadosabertos.sp.gov.br/dataset/ensino-superior
-- 
+- <img width="1402" height="534" alt="Captura de tela 2026-04-10 221204" src="https://github.com/user-attachments/assets/be372374-2dbd-4cc0-bb42-9b26af94d2bb" />
+
   
 
 
