@@ -74,11 +74,12 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 - https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20224841.png
 
-- 09/04
+- 10 /04
 - https://dadosabertos.sp.gov.br/dataset/ensino-superior
 - <img width="1402" height="534" alt="Captura de tela 2026-04-10 221204" src="https://github.com/user-attachments/assets/be372374-2dbd-4cc0-bb42-9b26af94d2bb" />
 
-  
+  <img width="891" height="759" alt="Captura de tela 2026-04-10 221218" src="https://github.com/user-attachments/assets/7cabcff9-ebd8-44fc-953e-1030404da234" />
+
 
 
 
