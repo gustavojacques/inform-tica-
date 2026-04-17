@@ -61,20 +61,18 @@ O resultado final integra pesquisa de materiais, técnica de modelagem e sensibi
 https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content=DAHCkBIwErk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-### planilhas do excel
-
-## arquivo de despesas da recita de sjc
+### arquivo de despesas da recita de sjc
 
 https://github.com/gustavojacques/inform-tica-/blob/main/despesa_funcao%20(1).xlsx
 
 https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20220302.png
 
-##planilha fornecedores.
+###planilha fornecedores.
 
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 - https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20224841.png
 
-- 10 /04
+### 10 /04
 - https://dadosabertos.sp.gov.br/dataset/ensino-superior
 - <img width="1402" height="534" alt="Captura de tela 2026-04-10 221204" src="https://github.com/user-attachments/assets/be372374-2dbd-4cc0-bb42-9b26af94d2bb" />
 
