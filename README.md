@@ -30,7 +30,7 @@
 Este material está sob a Licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0).
 
 
-### primeira apresentação do grupo 
+### Primeira apresentação do grupo 
 
 https://presenter.ahaslides.com/share/apresentacao-pessoal-1771027138783-l3w404gz9j
 
@@ -46,7 +46,7 @@ Por fim, na terceira parte, cada aluno compartilhou seu hobby. Foram citadas ati
 De modo geral, a apresentação foi uma experiência enriquecedora, pois fortaleceu a interação entre os colegas, estimulou a expressão pessoal e contribuiu para a construção de um ambiente mais colaborativo e participativo ao longo do semestre.
 
 
-### projeto do vestido 
+### Projeto do vestido 
 
 Projeto: Desenvolvimento de Vestido de Noiva e Festa
 
@@ -61,13 +61,13 @@ O resultado final integra pesquisa de materiais, técnica de modelagem e sensibi
 https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content=DAHCkBIwErk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-### arquivo de despesas da recita de sjc
+### Arquivo de despesas da recita de sjc
 
 https://github.com/gustavojacques/inform-tica-/blob/main/despesa_funcao%20(1).xlsx
 
 https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20220302.png
 
-### planilha fornecedores.
+### Planilha fornecedores.
 
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 - https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20224841.png
