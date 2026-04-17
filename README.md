@@ -61,7 +61,7 @@ O resultado final integra pesquisa de materiais, técnica de modelagem e sensibi
 https://www.canva.com/design/DAHCkBIwErk/p8K8SNqN_xwnqLBiq-qK4g/edit?utm_content=DAHCkBIwErk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
-### Arquivo de despesas da recita de sjc
+### Arquivo de despesas da receita de sjc
 
 https://github.com/gustavojacques/inform-tica-/blob/main/despesa_funcao%20(1).xlsx
 
