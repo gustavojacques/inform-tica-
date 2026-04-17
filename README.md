@@ -67,7 +67,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/despesa_funcao%20(1).xl
 
 https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20220302.png
 
-###planilha fornecedores.
+### planilha fornecedores.
 
 - https://github.com/gustavojacques/inform-tica-/blob/main/fornecedores.xlsx
 - https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202026-03-13%20224841.png
