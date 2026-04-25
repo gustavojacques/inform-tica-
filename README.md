@@ -87,8 +87,14 @@ https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.z
 
 24/04
 ### sexo
+
 https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1214" height="463" alt="image" src="https://github.com/user-attachments/assets/701d4db1-1127-4837-9de6-1e25f2ab581b" />
+
 ### modelo de ensino
+
 <img width="825" height="724" alt="Captura de tela 2026-04-24 214821" src="https://github.com/user-attachments/assets/8726bfd6-fada-43ff-ac08-6e2e25a7a5d3" />
 
+### ensino publico ou privado
+
+<img width="835" height="519" alt="Captura de tela 2026-04-24 215916" src="https://github.com/user-attachments/assets/ba01d7d1-32c7-48f4-b005-a9825eed535f" />
