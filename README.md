@@ -79,12 +79,14 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
   <img width="891" height="759" alt="Captura de tela 2026-04-10 221218" src="https://github.com/user-attachments/assets/7cabcff9-ebd8-44fc-953e-1030404da234" />
 
 
-23/04
+23/04 ###power bi
 
 https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.zip
 
 <img width="1062" height="752" alt="Captura de tela 2026-04-24 205001" src="https://github.com/user-attachments/assets/997ae8f9-1082-41e7-a52b-844b60fbd866" />
 
 24/04
+
+https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1214" height="463" alt="image" src="https://github.com/user-attachments/assets/701d4db1-1127-4837-9de6-1e25f2ab581b" />
 
