@@ -84,8 +84,6 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 
 https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.zip
 
-<img width="825" height="724" alt="Captura de tela 2026-04-24 214821" src="https://github.com/user-attachments/assets/36874bef-e10f-4259-9bab-7f60351bc016" />
-
 
 24/04
 ### sexo
