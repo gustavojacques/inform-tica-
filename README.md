@@ -92,4 +92,5 @@ https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.z
 https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1214" height="463" alt="image" src="https://github.com/user-attachments/assets/701d4db1-1127-4837-9de6-1e25f2ab581b" />
 ### modelo de ensino
-https://github.com/Joao-Sepulveda04/Joao-Paulo---Banco-de-Dados/blob/main/Matriculas%20-%20Dados%20abertos%20SP.pbix
+<img width="825" height="724" alt="Captura de tela 2026-04-24 214821" src="https://github.com/user-attachments/assets/8726bfd6-fada-43ff-ac08-6e2e25a7a5d3" />
+
