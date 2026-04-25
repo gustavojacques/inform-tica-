@@ -80,6 +80,9 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 
 
 23/10
+
+https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.zip
+
 <img width="1062" height="752" alt="Captura de tela 2026-04-24 205001" src="https://github.com/user-attachments/assets/997ae8f9-1082-41e7-a52b-844b60fbd866" />
 
 
