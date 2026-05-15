@@ -101,6 +101,6 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="835" height="519" alt="Captura de tela 2026-04-24 215916" src="https://github.com/user-attachments/assets/ba01d7d1-32c7-48f4-b005-a9825eed535f" />
 
 ### Regressão linear
-
+PK
 <img width="1900" height="821" alt="Captura de tela 2026-05-14 210840" src="https://github.com/user-attachments/assets/0249a633-5b7d-4cf3-8e4e-d6aa23785c07" />
 
