@@ -104,3 +104,6 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 Ice Cream Sales - temperatures.xlsx
 <img width="1900" height="821" alt="Captura de tela 2026-05-14 210840" src="https://github.com/user-attachments/assets/0249a633-5b7d-4cf3-8e4e-d6aa23785c07" />
 
+### cerveja grafico
+
+<img width="1870" height="755" alt="Captura de tela 2026-05-15 221754" src="https://github.com/user-attachments/assets/b3fc4e01-494a-43a2-8812-89c7560f6050" />
