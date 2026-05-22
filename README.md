@@ -87,16 +87,16 @@ https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.z
 
 
 24/04
-### sexo
+### Sexo 
 
 https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1214" height="463" alt="image" src="https://github.com/user-attachments/assets/701d4db1-1127-4837-9de6-1e25f2ab581b" />
 
-### modelo de ensino
+### Modelo de Ensino
 
 <img width="825" height="724" alt="Captura de tela 2026-04-24 214821" src="https://github.com/user-attachments/assets/8726bfd6-fada-43ff-ac08-6e2e25a7a5d3" />
 
-### ensino publico ou privado
+### Ensino Publico ou Privado
 
 <img width="835" height="519" alt="Captura de tela 2026-04-24 215916" src="https://github.com/user-attachments/assets/ba01d7d1-32c7-48f4-b005-a9825eed535f" />
 
@@ -106,9 +106,9 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1321" height="737" alt="image" src="https://github.com/user-attachments/assets/99c183f1-5a47-45e1-a861-d87da39d0040" />
 
 ### Regressão linear
-Ice Cream Sales - temperatures.xlsx
+### Vendas de Sorvete
 <img width="1900" height="821" alt="Captura de tela 2026-05-14 210840" src="https://github.com/user-attachments/assets/0249a633-5b7d-4cf3-8e4e-d6aa23785c07" />
 
-### cerveja grafico
+### Cerveja Grafico
 
 <img width="1870" height="755" alt="Captura de tela 2026-05-15 221754" src="https://github.com/user-attachments/assets/b3fc4e01-494a-43a2-8812-89c7560f6050" />
