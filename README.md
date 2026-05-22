@@ -94,8 +94,6 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1214" height="463" alt="image" src="https://github.com/user-attachments/assets/701d4db1-1127-4837-9de6-1e25f2ab581b" />
 
 
-### 30/04/2026 Aplicação do aprendizado anterior em nova tabela
-
 ### Modelo de Ensino
 
 
@@ -105,6 +103,8 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 
 <img width="835" height="519" alt="Captura de tela 2026-04-24 215916" src="https://github.com/user-attachments/assets/ba01d7d1-32c7-48f4-b005-a9825eed535f" />
 
+
+### 30/04/2026 Aplicação do aprendizado anterior em nova tabela
 ### Tarefa do Power BI
 <img width="970" height="671" alt="image" src="https://github.com/user-attachments/assets/d25a53d8-f3e3-4b4d-b8d3-d6c1ecfa61e4" />
 <img width="1215" height="406" alt="image" src="https://github.com/user-attachments/assets/6973a1ad-cb2b-49a6-aaad-0420c0e2e0c9" />
