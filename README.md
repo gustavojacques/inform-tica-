@@ -95,6 +95,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 
 ### Modelo de Ensino
 
+
 <img width="825" height="724" alt="Captura de tela 2026-04-24 214821" src="https://github.com/user-attachments/assets/8726bfd6-fada-43ff-ac08-6e2e25a7a5d3" />
 
 ### Ensino Publico ou Privado
