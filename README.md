@@ -99,6 +99,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 ### ensino publico ou privado
 
 <img width="835" height="519" alt="Captura de tela 2026-04-24 215916" src="https://github.com/user-attachments/assets/ba01d7d1-32c7-48f4-b005-a9825eed535f" />
+<img width="970" height="671" alt="image" src="https://github.com/user-attachments/assets/d25a53d8-f3e3-4b4d-b8d3-d6c1ecfa61e4" />
 
 ### Regressão linear
 Ice Cream Sales - temperatures.xlsx
