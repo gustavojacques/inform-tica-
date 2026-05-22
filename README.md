@@ -93,6 +93,9 @@ https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.z
 https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1214" height="463" alt="image" src="https://github.com/user-attachments/assets/701d4db1-1127-4837-9de6-1e25f2ab581b" />
 
+
+### 30/04/2026 Aplicação do aprendizado anterior em nova tabela
+
 ### Modelo de Ensino
 
 
