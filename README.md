@@ -81,6 +81,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/Captura%20de%20tela%202
 
 23/04
 ### power bi
+<img width="1535" height="1024" alt="image" src="https://github.com/user-attachments/assets/2410d382-041b-46bb-9ba1-d716589cc6fe" />
 
 https://github.com/gustavojacques/inform-tica-/blob/main/DespesaSjc2026Grafico.zip
 <img width="1053" height="747" alt="Captura de tela 2026-04-24 220351" src="https://github.com/user-attachments/assets/c3b99306-2b93-43e3-aed8-aa18cd78f463" />
