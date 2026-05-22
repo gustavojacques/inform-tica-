@@ -99,7 +99,11 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 ### ensino publico ou privado
 
 <img width="835" height="519" alt="Captura de tela 2026-04-24 215916" src="https://github.com/user-attachments/assets/ba01d7d1-32c7-48f4-b005-a9825eed535f" />
+
+### Tarefa do Power BI
 <img width="970" height="671" alt="image" src="https://github.com/user-attachments/assets/d25a53d8-f3e3-4b4d-b8d3-d6c1ecfa61e4" />
+<img width="1215" height="406" alt="image" src="https://github.com/user-attachments/assets/6973a1ad-cb2b-49a6-aaad-0420c0e2e0c9" />
+<img width="1321" height="737" alt="image" src="https://github.com/user-attachments/assets/99c183f1-5a47-45e1-a861-d87da39d0040" />
 
 ### Regressão linear
 Ice Cream Sales - temperatures.xlsx
