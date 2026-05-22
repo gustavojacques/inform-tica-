@@ -110,6 +110,12 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 <img width="1215" height="406" alt="image" src="https://github.com/user-attachments/assets/6973a1ad-cb2b-49a6-aaad-0420c0e2e0c9" />
 <img width="1321" height="737" alt="image" src="https://github.com/user-attachments/assets/99c183f1-5a47-45e1-a861-d87da39d0040" />
 
+### 08/05/2026 - Power BI - Painel dos dados de empregos formais
+
+Nesta atividade, utilizamos a base de dados abertas do estado de São Paulo para construir um dashboard com os dados de empregos formais. Após a construção do arquivo, utilizamos os dados para responder duas perguntas:Em qual ano e mês houve o menor saldo de movimentação E o maior? e Em qual ano a média de movimentação foi maior que zero?
+<img width="1299" height="719" alt="image" src="https://github.com/user-attachments/assets/d9b65210-b5f6-40b6-bd96-c60e8a9e13e6" />
+
+
 ### Regressão linear
 ### Vendas de Sorvete
 <img width="1900" height="821" alt="Captura de tela 2026-05-14 210840" src="https://github.com/user-attachments/assets/0249a633-5b7d-4cf3-8e4e-d6aa23785c07" />
