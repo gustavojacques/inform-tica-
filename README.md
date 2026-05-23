@@ -127,5 +127,5 @@ Nesta atividade, utilizamos a base de dados abertas do estado de São Paulo para
 
 ### 22/05 dados dimensionais 
 
-
+https://github.com/gustavojacques/inform-tica-/blob/main/tt.pbix
 <img width="1317" height="744" alt="image" src="https://github.com/user-attachments/assets/30a0bcec-ff4d-4c74-898f-fa3f38024b19" />
