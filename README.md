@@ -106,7 +106,7 @@ https://github.com/gustavojacques/inform-tica-/blob/main/sexo.xlsx
 
 ### 30/04/2026 Aplicação do aprendizado anterior em nova tabela
 ### Tarefa do Power BI
-
+ Voltando a utilizar os dados públicos da transparência da Prefeitura de São Paulo, coletamos os dados focados em Cultura, interagimos com o Power BI Desktop, fizemos uma página com três tipos de visualização, e com o segmento de dados sendo os tipos de vinculos disponíveis.https://github.com/user-attachments/files/27544259/Cultura.2025.zip
 <img width="727" height="356" alt="image" src="https://github.com/user-attachments/assets/fe43d72e-d49f-4837-9068-c68a7d7c052c" />
 
 <img width="970" height="671" alt="image" src="https://github.com/user-attachments/assets/d25a53d8-f3e3-4b4d-b8d3-d6c1ecfa61e4" />
